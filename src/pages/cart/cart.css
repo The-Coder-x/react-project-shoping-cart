@@ -41,3 +41,17 @@
   margin: 10px;
   cursor: pointer;
 }
+
+.svgBtn{
+      background-color: #3a3939;
+    height: 20px;
+    border-radius: 5px;
+}
+svg{
+  color: white;
+    size: 10px;
+}
+
+input{
+  height: 20px;
+}
